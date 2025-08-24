@@ -1,0 +1,10 @@
+pydantic
+langchain
+python-dotenv
+langchain_community
+bs4
+pypdf
+arxiv
+pymupdf
+langchain-text-splitters
+sklearn-learn

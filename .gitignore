@@ -1,0 +1,8 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+# Ignore database and vector store directories
+chrome_langchain_db/
